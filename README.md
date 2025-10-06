@@ -1,0 +1,1 @@
+# hadoop-monday-6-10

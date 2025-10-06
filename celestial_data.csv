@@ -1,0 +1,51 @@
+id,name,type,distance,mass,radius
+1,Sun,Star,0.0,1.989e30,695700
+2,Earth,Planet,1.0,5.972e24,6371
+3,Moon,Moon,0.00257,7.35e22,1737
+4,Mars,Planet,1.524,6.417e23,3389
+5,Jupiter,Planet,5.2,1.898e27,69911
+6,Saturn,Planet,9.5,5.683e26,58232
+7,Uranus,Planet,19.8,8.681e25,25362
+8,Neptune,Planet,30.1,1.024e26,24622
+9,Pluto,Dwarf Planet,39.5,1.309e22,1188
+10,Eris,Dwarf Planet,67.8,1.66e22,1163
+11,Haumea,Dwarf Planet,43.1,4.006e21,816
+12,Makemake,Dwarf Planet,45.8,3.1e21,715
+13,Ceres,Asteroid,2.77,9.393e20,473
+14,Vesta,Asteroid,2.36,2.59e20,262
+15,Pallas,Asteroid,2.77,2.11e20,272
+16,Hygiea,Asteroid,3.14,8.32e19,215
+17,Io,Moon,5.2,8.93e22,1821
+18,Europa,Moon,5.2,4.8e22,1560
+19,Ganymede,Moon,5.2,1.48e23,2634
+20,Callisto,Moon,5.2,1.08e23,2410
+21,Titan,Moon,9.5,1.35e23,2575
+22,Enceladus,Moon,9.5,1.08e20,252
+23,Triton,Moon,30.1,2.14e22,1353
+24,Charon,Moon,39.5,1.52e21,606
+25,Proxima Centauri,Star,4.24,2.446e29,100000
+26,Barnard's Star,Star,5.96,1.898e29,138000
+27,Alpha Centauri A,Star,4.37,2.187e30,834840
+28,Alpha Centauri B,Star,4.37,1.804e30,695800
+29,Sirius A,Star,8.6,4.018e30,1189640
+30,Betelgeuse,Star,642.5,1.64e31,617100000
+31,Rigel,Star,863,3.5e31,78750000
+32,Vega,Star,25.04,4.1e30,1238000
+33,Arcturus,Star,36.7,1.08e31,17800000
+34,Aldebaran,Star,65.1,2.5e31,61500000
+35,Polaris,Star,433.8,5.4e31,44600000
+36,Antares,Star,550,6.5e31,883000000
+37,Altair,Star,16.7,3.0e30,1680000
+38,Deneb,Star,2600,1.5e32,203000000
+39,Mercury,Planet,0.39,3.301e23,2440
+40,Venus,Planet,0.72,4.867e24,6052
+41,Kepler-22b,Exoplanet,600,2.4e25,25000
+42,Kepler-452b,Exoplanet,1400,3.8e25,27000
+43,TOI-700 d,Exoplanet,101.4,2.7e25,18000
+44,WASP-17b,Exoplanet,1000,2.7e27,156000
+45,HD 209458 b,Exoplanet,159,1.4e27,143000
+46,Kepler-16b,Exoplanet,200,1.0e27,108000
+47,Gliese 581c,Exoplanet,20.4,1.5e25,17000
+48,TRAPPIST-1e,Exoplanet,39.5,4.2e24,5790
+49,TRAPPIST-1f,Exoplanet,39.5,6.1e24,6560
+50,TRAPPIST-1g,Exoplanet,39.5,8.0e24,7120
